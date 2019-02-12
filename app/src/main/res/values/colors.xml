@@ -10,4 +10,11 @@
     <color name="pink2">#9F2EB3</color>
     <color name="blue2">#83ACBE</color>
     <color name="yellow2">#FCCA59</color>
+    <color name="indigo">#9D27AF</color>
+    <color name="pinkish">#FE6BB1</color>
+    <color name="yellow3">#FCCA58</color>
+    <color name="light_blue2">#CCEED5</color>
+    <color name="nice_green">#49F915</color>
+    <color name="yellow_green">#C3FB6A</color>
+    <color name="nice_blue">#79CCC5</color>
 </resources>
